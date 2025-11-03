@@ -1,4 +1,7 @@
 # 🚫🔫 CSGO2 Aimbot (Educational Project) 🔍📚
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0a0c4279-af43-4489-b908-583accc78baa" />
+
+
 🎯 Important! This project is created exclusively for educational purposes and is intended to help understand game mechanics, analyze algorithms, and develop programming skills.
 
 ⚠️ Please Note: Using such tools in real online games is strictly prohibited and may lead to account bans or other sanctions. Use this project responsibly and only for learning purposes.
